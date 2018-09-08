@@ -26,18 +26,18 @@
 
 <!-- 検索関連オプション -->
   <!-- KWIC の文脈長 -->
-  <length_context_kwic value="10"/>
+  <length_context_kwic value="30"/>
   <!-- 検索時の文脈マッチング範囲 -->
-  <length_context_search value="10"/>
+  <length_context_search value="30"/>
 
   <!-- 結果レコードのフィールド定義 -->
   <field_setting>
     <li align="RIGHT" name="no" type="index" width="30"/>
-    <li align="RIGHT" attribute="_preceding_context" element="_sys" name="前文脈" sort_direction="R" type="preceding_context" width="180"/>
-    <li attribute="_key" element="_sys" name="キー" sort_order="1" type="key" width="80"/>
-    <li attribute="_following_context" element="_sys" name="後文脈" sort_order="2" type="following_context" width="160"/>
+    <li align="RIGHT" attribute="_preceding_context" element="_sys" name="前文脈" sort_direction="R" type="preceding_context" width="360"/>
+    <li attribute="_key" element="_sys" name="キー" sort_order="1" type="key" width="100"/>
+    <li attribute="_following_context" element="_sys" name="後文脈" sort_order="2" type="following_context" width="360"/>
     <li attribute="path" element="記事" name="Path" type="argument" width="80"/>
-    <li attribute="タイトル" element="記事" name="タイトル" type="argument" width="80"/>
+    <li attribute="タイトル" element="記事" name="タイトル" type="argument" width="200"/>
     <li attribute="著者" element="記事" name="著者" type="argument" width="80"/>
   </field_setting>
 

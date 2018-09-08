@@ -12,5 +12,15 @@ b
 画像	width
 画像	height
 行	
+morph	読み
+morph	品詞細分類２
+morph	品詞細分類１
+morph	活用型
+morph	品詞
+morph	基本形
+morph	発音
+morph	品詞細分類３
+morph	_TEXT
+morph	活用形
 タイトル	種別
 テキスト	種別
