@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <setting>
   <annotator>
-    <li name="MeCab(IPADIC)" os="Windows" annotation="morph" command="D:\MeCab\bin\mecab" option="--node-format=%m\t%f[0]\t%f[1]\t%f[2]\t%f[3]\t%f[4]\t%f[5]\t%f[6]\t%f[7]\t%f[8]\n --unk-format=%m\t%f[0]\t%f[1]\t%f[2]\t%f[3]\t%f[4]\t%f[5]\t%f[6]\t*\t*\n">
+    <li name="MeCab(IPADIC)" os="Windows" annotation="morph" command="resources\MeCab\bin\mecab" option="--rcfile=resources\MeCab\etc\mecabrc --node-format=%m\t%f[0]\t%f[1]\t%f[2]\t%f[3]\t%f[4]\t%f[5]\t%f[6]\t%f[7]\t%f[8]\n --unk-format=%m\t%f[0]\t%f[1]\t%f[2]\t%f[3]\t%f[4]\t%f[5]\t%f[6]\t*\t*\n">
       <extract element="" attribute="" value="" />
       <chunk delimitor="[。？！]+" maxlength="200" />
       <result_fields delimitor="\t">
@@ -38,7 +38,7 @@
 	<li name="発音" />
       </result_fields>
     </li>
-    <li name="MeCab(UniDic)" os="Windows" annotation="morph" command="D:\MeCab\bin\mecab" option="--dicdir=resources\unidic --output-format-type= --node-format=%m\t%f[0]\t%f[1]\t%f[2]\t%f[3]\t%f[4]\t%f[5]\t%f[7]\t%f[8]\t%f[9]\n --unk-format=%m\t%f[0]\t%f[1]\t%f[2]\t%f[3]\t%f[4]\t%f[5]\t*\t*\t*\t*\t*\t*\n" encoding="utf-8">
+    <li name="MeCab(UniDic)" os="Windows" annotation="morph" command="resources\MeCab\bin\mecab" option="--rcfile=resources\MeCab\etc\mecabrc --dicdir=resources\unidic --output-format-type= --node-format=%m\t%f[0]\t%f[1]\t%f[2]\t%f[3]\t%f[4]\t%f[5]\t%f[7]\t%f[8]\t%f[9]\n --unk-format=%m\t%f[0]\t%f[1]\t%f[2]\t%f[3]\t%f[4]\t%f[5]\t*\t*\t*\t*\t*\t*\n" encoding="utf-8">
       <extract element="" attribute="" value="" />
       <chunk delimitor="[。？！]+" maxlength="200" />
       <result_fields delimitor="\t">
