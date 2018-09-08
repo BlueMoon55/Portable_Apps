@@ -12,12 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>東京</key_string>
-      <key_string>15408</key_string>
-      <key_string>資料送付</key_string>
-      <key_string>ビジネスメール詐欺</key_string>
-      <key_string>nisc</key_string>
-      <key_string>倫理</key_string>
       <key_string>なりすまし</key_string>
       <key_string>ビジネスメール</key_string>
       <key_string>ECサイト</key_string>
@@ -30,12 +24,19 @@
       <key_string>IoT</key_string>
       <key_string>参考書として活用可能である</key_string>
       <key_string>活用可能である</key_string>
+      <key_string>GDPR</key_string>
       <key_string>セキュリティ</key_string>
+      <key_string>人工知能</key_string>
+      <key_string>動作する</key_string>
+      <key_string>稼働する</key_string>
+      <key_string>稼働</key_string>
+      <key_string>用いて</key_string>
+      <key_string>インターネット</key_string>
       <key_prev>A13</key_prev>
     </key>
     <filter/>
   </history>
   <config>
-    <file_path>config_Himawari_Import_text_Cyber.sd.xml</file_path>
+    <file_path>config_Himawari_Import_doc_Knowledge.sd.xml</file_path>
   </config>
 </user_setting>
