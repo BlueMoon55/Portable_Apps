@@ -12,7 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>ECサイト</key_string>
       <key_string>Society4.0</key_string>
       <key_string>Society 4.0</key_string>
       <key_string>Society</key_string>
@@ -32,11 +31,12 @@
       <key_string>人工知能</key_string>
       <key_string>人工</key_string>
       <key_string>常勤</key_string>
+      <key_string>サプライ</key_string>
       <key_prev>A13</key_prev>
     </key>
     <filter/>
   </history>
   <config>
-    <file_path>config_Himawari_Import_doc_Knowledge.sd.xml</file_path>
+    <file_path>config_Himawari_Import_doc_Knowledge.xml</file_path>
   </config>
 </user_setting>
