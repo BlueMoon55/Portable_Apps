@@ -12,8 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>なりすまし</key_string>
-      <key_string>ビジネスメール</key_string>
       <key_string>ECサイト</key_string>
       <key_string>Society4.0</key_string>
       <key_string>Society 4.0</key_string>
@@ -26,12 +24,14 @@
       <key_string>活用可能である</key_string>
       <key_string>GDPR</key_string>
       <key_string>セキュリティ</key_string>
-      <key_string>人工知能</key_string>
       <key_string>動作する</key_string>
       <key_string>稼働する</key_string>
       <key_string>稼働</key_string>
       <key_string>用いて</key_string>
       <key_string>インターネット</key_string>
+      <key_string>人工知能</key_string>
+      <key_string>人工</key_string>
+      <key_string>常勤</key_string>
       <key_prev>A13</key_prev>
     </key>
     <filter/>

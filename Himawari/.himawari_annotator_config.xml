@@ -70,7 +70,7 @@
 	<li name="発音" />
       </result_fields>
     </li>
-    <li name="JUMAN" os="Windows" annotation="morph" command="C:\Program Files\juman\juman" option="-b">
+    <li name="JUMAN" os="Windows" annotation="morph" command="resources\juman\juman" option="-b">
       <extract element="" attribute="" value="" />
       <chunk delimitor="[。？]+" maxlength="200" />
       <result_fields delimitor=" ">
