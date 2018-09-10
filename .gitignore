@@ -1,6 +1,7 @@
 # フォルダを除外
 # 2018_MindMap/2018年MindMap_Pri/
 **/Wikipedia/*
+config_wikipedia.xml
 **/限定公開/*
 **/非公開/*
 
