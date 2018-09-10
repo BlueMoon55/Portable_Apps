@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setting>
+  <corpora name="Wikipedia">
+    <li name="01/09" path="Corpora/Wikipedia/01/corpus_01" />
+<!--
+    <li name="02/09" path="Corpora/Wikipedia/02/corpus_02" />
+    <li name="03/09" path="Corpora/Wikipedia/03/corpus_03" />
+    <li name="04/09" path="Corpora/Wikipedia/04/corpus_04" />
+    <li name="05/09" path="Corpora/Wikipedia/05/corpus_05" />
+    <li name="06/09" path="Corpora/Wikipedia/06/corpus_06" />
+    <li name="07/09" path="Corpora/Wikipedia/07/corpus_07" />
+    <li name="08/09" path="Corpora/Wikipedia/08/corpus_08" />
+    <li name="09/09" path="Corpora/Wikipedia/09/corpus_09" />
+-->
+  </corpora>
+
+  <!-- 索引関連 -->
+  <!-- 要素内容への索引 -->
+  <index_cix>
+    <li name="doc" label="本文" middle_name="text" type="normal" field_name="キー" />
+    <li name="doc" label="本文（正規表現）" middle_name="text" type="null" field_name="キー" />
+  </index_cix>
+
+  <!-- 要素への索引 -->
+  <index_eix>
+    <li name="corpus" middle_name="corpus" is_empty="false" top="true" />
+    <li name="doc" middle_name="text" is_empty="false" isBrowsed="true" />
+  </index_eix>
+
+  <!-- 要素属性への索引 -->
+  <index_aix>
+  </index_aix>
+
+<!-- 検索関連オプション -->
+  <!-- KWIC の文脈長 -->
+  <length_context_kwic value="10" />
+  <!-- 検索時の文脈マッチング範囲 -->
+  <length_context_search value="10" />
+
+  <!-- 結果レコードのフィールド定義 -->
+  <field_setting>
+    <li name="no" type="index" width="30" align="RIGHT" />
+    <li name="前文脈" type="preceding_context" element="_sys" attribute="_preceding_context" width="180" align="RIGHT" sort_direction="R" />
+    <li name="キー" type="key" element="_sys" attribute="_key" width="80" sort_order="1" />
+    <li name="後文脈" type="following_context" element="_sys" attribute="_following_context" width="160" sort_order="2" />
+    <li name="タイトル" type="argument" element="doc" attribute="title" width="120" />
+    <li name="記事ID" type="argument" element="doc" attribute="id" width="80" align="RIGHT" />
+    <li name="URL" type="argument" element="doc" attribute="url" width="80" />
+    <li name="コーパス" type="argument" element="corpus" attribute="name" width="80" />
+  </field_setting>
+
+<!--     コーパスフィールド -->
+  <corpus_fields name="コーパス">
+    <li element="corpus" attribute="name" width="250" name="コーパス名" />
+  </corpus_fields>
+
+<!-- 閲覧要素一覧用フィールド -->
+<unit_fields name="記事一覧">
+ <li element="doc" attribute="title" width="300" name="タイトル" />
+ <li element="doc" attribute="url" width="300" name="URL" />
+</unit_fields>
+
+<!-- 統計表用フィールド -->
+  <stat_fields_1 label="キー，タイトル">
+    <li name="キー"  width="100" />
+    <li name="タイトル"  width="150" align="LEFT" />
+    <li name="記事ID"  width="150" align="RIGHT" />
+    <li name="URL"  width="150" align="LEFT" />
+    <li name="頻度"  width="60" align="RIGHT" sort_type="numeric" />
+  </stat_fields_1>
+
+  <stat_fields_2 label="キー，コーパス">
+    <li name="キー"  width="100" />
+    <li name="コーパス"  width="250" align="LEFT" />
+    <li name="頻度"  width="60" align="RIGHT" sort_type="numeric" />
+  </stat_fields_2>
+
+  <stat_fields_3 label="キー">
+    <li name="キー"  width="100" />
+    <li name="頻度"  width="60" align="RIGHT" sort_type="numeric"/>
+  </stat_fields_3>
+
+
+<!-- 閲覧表示関連オプション -->
+  <!-- ブラウザ -->
+  <browsers temp_file="__searched_tmp.xml" label="記事">
+    <li name="Microsoft Internet Explorer" path="C:\Program Files\Internet Explorer\iexplore" os="Windows" />
+    <li name="Firefox(Windows)" path="C:\Program Files\Mozilla Firefox\firefox" os="Windows" />
+    <li name="Firefox(Linux)" path="firefox" os="Linux" />
+    <li name="Safari(Mac)" option="-a safari" path="open" os="Mac" />
+    <li name="Firefox(Mac)" option="-a firefox" path="open" os="Mac" />
+  </browsers>
+
+
+  <!-- 表示用 XSL -->
+  <xsl_files root_path="Corpora/Wikipedia/xslt">
+    <li label="wikipedia" name="wikipedia.xsl" />
+  </xsl_files>
+
+<!-- 字体辞書の URL -->
+<jitaidic url="Corpora/jitaidic.xml" />
+
+<!-- マニュアルの URL -->
+  <manual url="http://www2.ninjal.ac.jp/lrc/index.php?%C1%B4%CA%B8%B8%A1%BA%F7%A5%B7%A5%B9%A5%C6%A5%E0%A1%D8%A4%D2%A4%DE%A4%EF%A4%EA%A1%D9%2F%CD%F8%CD%D1%BC%D4%A5%DE%A5%CB%A5%E5%A5%A2%A5%EB%2F1_3" />
+
+<!-- ホームページ URL -->
+  <hp url="http://www2.ninjal.ac.jp/lrc/index.php?%C1%B4%CA%B8%B8%A1%BA%F7%A5%B7%A5%B9%A5%C6%A5%E0%A1%D8%A4%D2%A4%DE%A4%EF%A4%EA%A1%D9" />
+
+  <!-- フォントサイズ -->
+  <fontsize value="14" />
+
+
+  <!-- indexing 用のメニュー項目を表示するか否か -->
+  <isIndexingEnable value="true" />
+
+  <!-- コーパスファイル作成用のメニュー項目を表示するか否か -->
+  <isGenerateCorpusFileEnable value="false" />
+</setting>
