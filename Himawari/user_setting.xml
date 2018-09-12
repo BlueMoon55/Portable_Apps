@@ -13,10 +13,14 @@
   <history>
     <key>
       <key_string>セキュリティ</key_string>
+      <key_string>極意</key_string>
+      <key_string>IPA</key_string>
+      <key_string>NISC</key_string>
+      <key_string>中小</key_string>
     </key>
     <filter/>
   </history>
   <config>
-    <file_path>config_Himawari_Import_doc_Knowledge.sd.xml</file_path>
+    <file_path>config_Himawari_Import_html_cybersecurity-tokyo.xml</file_path>
   </config>
 </user_setting>
