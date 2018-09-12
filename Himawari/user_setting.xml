@@ -12,15 +12,26 @@
   </option>
   <history>
     <key>
-      <key_string>セキュリティ</key_string>
-      <key_string>極意</key_string>
       <key_string>IPA</key_string>
       <key_string>NISC</key_string>
       <key_string>中小</key_string>
+      <key_string>極意</key_string>
+      <key_string>GDPR</key_string>
+      <key_string>セキュリティ</key_string>
+      <key_string>東京都</key_string>
+      <key_string>ECサイト</key_string>
+      <key_string>なりすまし</key_string>
+      <key_string>PORTA</key_string>
+      <key_string>Webサイト</key_string>
+      <key_string>Big Data</key_string>
+      <key_string>IoT</key_string>
+      <key_string>銀行</key_string>
     </key>
-    <filter/>
+    <filter>
+      <filter_top>IoT</filter_top>
+    </filter>
   </history>
   <config>
-    <file_path>config_Himawari_Import_html_cybersecurity-tokyo.xml</file_path>
+    <file_path>config_Himawari_Import_html_Cyber.sd.xml</file_path>
   </config>
 </user_setting>
