@@ -32,9 +32,9 @@
 
 <!-- 検索関連オプション -->
   <!-- KWIC の文脈長 -->
-  <length_context_kwic value="30"/>
+  <length_context_kwic value="80"/>
   <!-- 検索時の文脈マッチング範囲 -->
-  <length_context_search value="30"/>
+  <length_context_search value="80"/>
 
   <!-- 結果レコードのフィールド定義 -->
   <field_setting>

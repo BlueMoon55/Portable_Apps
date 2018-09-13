@@ -1,0 +1,61 @@
+記事	bib_人物ID
+記事	bib_分類番号
+記事	文字数
+記事	タイトル
+記事	bib_作品名
+記事	path
+記事	bib_生年月日
+記事	bib_著者
+記事	bib_入力に使用した版1
+記事	bib_ファイルURL
+記事	bib_役割フラグ
+記事	bib_底本名1
+記事	著者
+記事	bib_文字遣い種別
+記事	bib_底本初版発行年1
+記事	bib_底本の親本初版発行年1
+記事	bib_図書カードURL
+記事	bib_原題
+記事	bib_作品ID
+記事	bib_没年月日
+記事	サブタイトル
+記事	bib_副題
+記事	bib_初出
+記事	底本
+記事	bib_底本出版社名1
+b	
+小書	
+階層	種別
+階層	タイトル
+ヘッダ	
+注	種別
+注	内容
+注	付与
+フッタ	
+割書	
+タイトル	備考
+コーパス	備考
+コーパス	名前
+r	rt
+ブロック	種別
+ブロック	style
+画像	備考
+画像	src
+画像	width
+画像	alt
+画像	height
+morph	読み
+morph	品詞細分類２
+morph	品詞細分類１
+morph	活用型
+morph	品詞
+morph	基本形
+morph	発音
+morph	品詞細分類３
+morph	_TEXT
+morph	活用形
+著者	備考
+テキスト	種別
+span	備考
+span	種別
+span	style

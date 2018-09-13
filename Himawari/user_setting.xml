@@ -7,31 +7,38 @@
       <save_setting>0</save_setting>
     </tool>
     <search>
-      <length_of_context>30</length_of_context>
+      <length_of_context>80</length_of_context>
     </search>
   </option>
   <history>
     <key>
-      <key_string>IPA</key_string>
-      <key_string>NISC</key_string>
-      <key_string>中小</key_string>
-      <key_string>極意</key_string>
+      <key_string>ERP</key_string>
+      <key_string>供給連鎖管理</key_string>
+      <key_string>バリューチェーンマネジメント</key_string>
+      <key_string>情報科学</key_string>
+      <key_string>トレンド</key_string>
+      <key_string>ER図</key_string>
+      <key_string>創造性</key_string>
+      <key_string>http://</key_string>
+      <key_string>美貌の女帝</key_string>
+      <key_string>Python</key_string>
+      <key_string>EQ</key_string>
+      <key_string>データサイエンティスト</key_string>
+      <key_string>トポロジー</key_string>
+      <key_string>似ている</key_string>
+      <key_string>Waas</key_string>
+      <key_string>WaaS</key_string>
+      <key_string>論理的推論</key_string>
       <key_string>GDPR</key_string>
-      <key_string>セキュリティ</key_string>
-      <key_string>東京都</key_string>
-      <key_string>ECサイト</key_string>
-      <key_string>なりすまし</key_string>
-      <key_string>PORTA</key_string>
-      <key_string>Webサイト</key_string>
-      <key_string>Big Data</key_string>
-      <key_string>IoT</key_string>
-      <key_string>銀行</key_string>
+      <key_string>パスワード使い回し</key_string>
+      <key_string>パスワード</key_string>
     </key>
     <filter>
       <filter_top>IoT</filter_top>
+      <filter_middle>Bib20-0402-1 ITロードマップ2018年版【2018年3月NRI】</filter_middle>
     </filter>
   </history>
   <config>
-    <file_path>config_Himawari_Import_html_Cyber.sd.xml</file_path>
+    <file_path>config_Himawari_Import_html_Cyber.xml</file_path>
   </config>
 </user_setting>
