@@ -12,9 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>ERP</key_string>
-      <key_string>供給連鎖管理</key_string>
-      <key_string>バリューチェーンマネジメント</key_string>
       <key_string>情報科学</key_string>
       <key_string>トレンド</key_string>
       <key_string>ER図</key_string>
@@ -31,7 +28,10 @@
       <key_string>論理的推論</key_string>
       <key_string>GDPR</key_string>
       <key_string>パスワード使い回し</key_string>
+      <key_string>使いまわし</key_string>
       <key_string>パスワード</key_string>
+      <key_string>環境</key_string>
+      <key_string>東京</key_string>
     </key>
     <filter>
       <filter_top>IoT</filter_top>
