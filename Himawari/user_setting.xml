@@ -3,16 +3,15 @@
     <tool>
       <font_size>14</font_size>
       <browser>Microsoft Internet Explorer</browser>
-      <xsl>kotobun_written.xsl</xsl>
+      <xsl>wikipedia.xsl</xsl>
       <save_setting>0</save_setting>
     </tool>
     <search>
-      <length_of_context>80</length_of_context>
+      <length_of_context>10</length_of_context>
     </search>
   </option>
   <history>
     <key>
-      <key_string>情報科学</key_string>
       <key_string>トレンド</key_string>
       <key_string>ER図</key_string>
       <key_string>創造性</key_string>
@@ -32,6 +31,7 @@
       <key_string>パスワード</key_string>
       <key_string>環境</key_string>
       <key_string>東京</key_string>
+      <key_string>カラオケ</key_string>
     </key>
     <filter>
       <filter_top>IoT</filter_top>
@@ -39,6 +39,6 @@
     </filter>
   </history>
   <config>
-    <file_path>config_Himawari_Import_html_Cyber.xml</file_path>
+    <file_path>config_wikipedia_all.xml</file_path>
   </config>
 </user_setting>
