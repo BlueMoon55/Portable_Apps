@@ -12,33 +12,16 @@
   </option>
   <history>
     <key>
-      <key_string>創造性</key_string>
-      <key_string>http://</key_string>
-      <key_string>美貌の女帝</key_string>
-      <key_string>Python</key_string>
-      <key_string>EQ</key_string>
-      <key_string>データサイエンティスト</key_string>
-      <key_string>トポロジー</key_string>
-      <key_string>似ている</key_string>
-      <key_string>Waas</key_string>
-      <key_string>WaaS</key_string>
-      <key_string>論理的推論</key_string>
-      <key_string>GDPR</key_string>
-      <key_string>パスワード使い回し</key_string>
-      <key_string>使いまわし</key_string>
-      <key_string>パスワード</key_string>
-      <key_string>環境</key_string>
+      <key_string>ブロックチェーン</key_string>
+      <key_string>サプライチェーン</key_string>
+      <key_string>DevSecOps</key_string>
+      <key_string>Society5.0</key_string>
+      <key_string>夏目</key_string>
       <key_string>東京</key_string>
-      <key_string>ECサイト</key_string>
-      <key_string>SaaS</key_string>
-      <key_string>ASP</key_string>
     </key>
-    <filter>
-      <filter_top>IoT</filter_top>
-      <filter_middle>Bib20-0402-1 ITロードマップ2018年版【2018年3月NRI】</filter_middle>
-    </filter>
+    <filter/>
   </history>
   <config>
-    <file_path>config_Himawari_Import_html_Cyber.xml</file_path>
+    <file_path>config_Himawari_Import_all_Cyber.xml</file_path>
   </config>
 </user_setting>
