@@ -3,25 +3,51 @@
     <tool>
       <font_size>14</font_size>
       <browser>Microsoft Internet Explorer</browser>
-      <xsl>kotobun_written.xsl</xsl>
+      <xsl>wikipedia.xsl</xsl>
       <save_setting>0</save_setting>
     </tool>
     <search>
-      <length_of_context>80</length_of_context>
+      <length_of_context>10</length_of_context>
     </search>
   </option>
   <history>
     <key>
+<<<<<<< HEAD
       <key_string>ブロックチェーン</key_string>
       <key_string>サプライチェーン</key_string>
       <key_string>DevSecOps</key_string>
       <key_string>Society5.0</key_string>
       <key_string>夏目</key_string>
+=======
+      <key_string>トレンド</key_string>
+      <key_string>ER図</key_string>
+      <key_string>創造性</key_string>
+      <key_string>http://</key_string>
+      <key_string>美貌の女帝</key_string>
+      <key_string>Python</key_string>
+      <key_string>EQ</key_string>
+      <key_string>データサイエンティスト</key_string>
+      <key_string>トポロジー</key_string>
+      <key_string>似ている</key_string>
+      <key_string>Waas</key_string>
+      <key_string>WaaS</key_string>
+      <key_string>論理的推論</key_string>
+      <key_string>GDPR</key_string>
+      <key_string>パスワード使い回し</key_string>
+      <key_string>使いまわし</key_string>
+      <key_string>パスワード</key_string>
+      <key_string>環境</key_string>
+>>>>>>> 5a97f15ee47c5d2ebe385456ca25bd3a58508779
       <key_string>東京</key_string>
+      <key_string>カラオケ</key_string>
     </key>
     <filter/>
   </history>
   <config>
+<<<<<<< HEAD
     <file_path>config_Himawari_Import_all_Cyber.xml</file_path>
+=======
+    <file_path>config_wikipedia_all.xml</file_path>
+>>>>>>> 5a97f15ee47c5d2ebe385456ca25bd3a58508779
   </config>
 </user_setting>
