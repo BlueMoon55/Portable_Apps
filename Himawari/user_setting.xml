@@ -12,9 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>情報科学</key_string>
-      <key_string>トレンド</key_string>
-      <key_string>ER図</key_string>
       <key_string>創造性</key_string>
       <key_string>http://</key_string>
       <key_string>美貌の女帝</key_string>
@@ -32,6 +29,9 @@
       <key_string>パスワード</key_string>
       <key_string>環境</key_string>
       <key_string>東京</key_string>
+      <key_string>ECサイト</key_string>
+      <key_string>SaaS</key_string>
+      <key_string>ASP</key_string>
     </key>
     <filter>
       <filter_top>IoT</filter_top>
