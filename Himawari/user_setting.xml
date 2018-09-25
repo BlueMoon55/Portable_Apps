@@ -13,11 +13,21 @@
   <history>
     <key>
       <key_string>なりすまし</key_string>
+<<<<<<< HEAD
       <key_string>GDPR</key_string>
+=======
+      <key_string>横浜</key_string>
+      <key_string>東京</key_string>
+      <key_string>架空請求</key_string>
+>>>>>>> c11190a52ee4f232710e35ff7156c2bc3bb9cc7a
     </key>
     <filter/>
   </history>
   <config>
+<<<<<<< HEAD
     <file_path>config_Himawari_Import_Knowledge_all.xml</file_path>
+=======
+    <file_path>config_Himawari_Import_Cyber_all.xml</file_path>
+>>>>>>> c11190a52ee4f232710e35ff7156c2bc3bb9cc7a
   </config>
 </user_setting>
