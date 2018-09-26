@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><user_setting>
   <option>
     <tool>
-      <font_size>12</font_size>
+      <font_size>14</font_size>
       <browser>Microsoft Internet Explorer</browser>
       <xsl>kotobun_written.xsl</xsl>
       <save_setting>0</save_setting>
@@ -20,6 +20,6 @@
     <filter/>
   </history>
   <config>
-    <file_path>config_Himawari_Import_Cyber_all.xml</file_path>
+    <file_path>config_Himawari_Import_Cyber_text.xml</file_path>
   </config>
 </user_setting>
