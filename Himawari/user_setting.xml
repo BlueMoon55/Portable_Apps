@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><user_setting>
+  <option>
+    <tool>
+      <font_size>14</font_size>
+      <browser>Microsoft Internet Explorer</browser>
+      <xsl>kotobun_written.xsl</xsl>
+      <save_setting>0</save_setting>
+    </tool>
+    <search>
+      <length_of_context>80</length_of_context>
+    </search>
+  </option>
+  <history>
+    <key>
+      <key_string>なりすまし</key_string>
+      <key_string>横浜</key_string>
+      <key_string>東京</key_string>
+      <key_string>架空請求</key_string>
+      <key_string>オペレータ</key_string>
+      <key_string>制御プログラム</key_string>
+      <key_string>ポータル通信仕様</key_string>
+      <key_string>制御システム</key_string>
+      <key_string>GDPR</key_string>
+    </key>
+    <filter/>
+  </history>
+  <config>
+    <file_path>config_Himawari_Import_Cyber_all.xml</file_path>
+  </config>
+</user_setting>
