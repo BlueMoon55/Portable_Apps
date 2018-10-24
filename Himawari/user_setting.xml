@@ -2,7 +2,7 @@
   <option>
     <tool>
       <font_size>14</font_size>
-      <browser>Microsoft Internet Explorer</browser>
+      <browser>デフォルトブラウザ</browser>
       <xsl>kotobun_written.xsl</xsl>
       <save_setting>0</save_setting>
     </tool>
@@ -21,8 +21,17 @@
       <key_string>ポータル通信仕様</key_string>
       <key_string>制御システム</key_string>
       <key_string>GDPR</key_string>
+      <key_string>sec</key_string>
+      <key_string>基本法</key_string>
+      <key_string>セキュリティ</key_string>
+      <key_string>サイバーセキュリティに関する施策の推進</key_string>
+      <key_string>サイバーセキュリティに関する施策</key_string>
+      <key_string>ウイルス</key_string>
     </key>
-    <filter/>
+    <filter>
+      <filter_middle>サイバーセキュリティ基本法</filter_middle>
+      <filter_middle>10大脅威</filter_middle>
+    </filter>
   </history>
   <config>
     <file_path>config_Himawari_Import_Cyber_all.xml</file_path>
