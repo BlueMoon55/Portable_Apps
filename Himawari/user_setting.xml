@@ -12,7 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>なりすまし</key_string>
       <key_string>横浜</key_string>
       <key_string>東京</key_string>
       <key_string>架空請求</key_string>
@@ -27,6 +26,12 @@
       <key_string>サイバーセキュリティに関する施策の推進</key_string>
       <key_string>サイバーセキュリティに関する施策</key_string>
       <key_string>ウイルス</key_string>
+      <key_string>組織の特徴的な構成要素</key_string>
+      <key_string>17005</key_string>
+      <key_string>17002</key_string>
+      <key_string>管理策</key_string>
+      <key_string>公務員倫理</key_string>
+      <key_string>メタストラクチャ</key_string>
     </key>
     <filter>
       <filter_middle>サイバーセキュリティ基本法</filter_middle>
