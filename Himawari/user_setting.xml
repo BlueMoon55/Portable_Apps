@@ -2,7 +2,7 @@
   <option>
     <tool>
       <font_size>14</font_size>
-      <browser>デフォルトブラウザ</browser>
+      <browser>Microsoft Internet Explorer</browser>
       <xsl>kotobun_written.xsl</xsl>
       <save_setting>0</save_setting>
     </tool>
