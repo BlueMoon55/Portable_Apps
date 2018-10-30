@@ -12,26 +12,26 @@
   </option>
   <history>
     <key>
-      <key_string>横浜</key_string>
-      <key_string>東京</key_string>
-      <key_string>架空請求</key_string>
-      <key_string>オペレータ</key_string>
-      <key_string>制御プログラム</key_string>
-      <key_string>ポータル通信仕様</key_string>
-      <key_string>制御システム</key_string>
-      <key_string>GDPR</key_string>
-      <key_string>sec</key_string>
-      <key_string>基本法</key_string>
-      <key_string>セキュリティ</key_string>
-      <key_string>サイバーセキュリティに関する施策の推進</key_string>
-      <key_string>サイバーセキュリティに関する施策</key_string>
-      <key_string>ウイルス</key_string>
       <key_string>組織の特徴的な構成要素</key_string>
       <key_string>17005</key_string>
       <key_string>17002</key_string>
       <key_string>管理策</key_string>
       <key_string>公務員倫理</key_string>
       <key_string>メタストラクチャ</key_string>
+      <key_string>架空請求</key_string>
+      <key_string>特殊詐欺</key_string>
+      <key_string>GDPR</key_string>
+      <key_string>なりすましECサイト被害</key_string>
+      <key_string>なりすましECサイト</key_string>
+      <key_string>なりすましECサイト対策マニュアル</key_string>
+      <key_string>IoT導入のためのセキュリティ</key_string>
+      <key_string>IoT導入のため</key_string>
+      <key_string>IoT導入</key_string>
+      <key_string>IoT</key_string>
+      <key_string>IoTセキュリティ</key_string>
+      <key_string>BSE</key_string>
+      <key_string>ビジネスEメール詐欺</key_string>
+      <key_string>ビジネスメール詐欺</key_string>
     </key>
     <filter>
       <filter_middle>サイバーセキュリティ基本法</filter_middle>
