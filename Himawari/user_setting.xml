@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><user_setting>
+  <option>
+    <tool>
+      <font_size>14</font_size>
+      <browser>Microsoft Internet Explorer</browser>
+      <xsl>kotobun_written.xsl</xsl>
+      <save_setting>0</save_setting>
+    </tool>
+    <search>
+      <length_of_context>80</length_of_context>
+    </search>
+  </option>
+  <history>
+    <key>
+      <key_string>ビットコイン</key_string>
+      <key_string>ランサムウェア</key_string>
+      <key_string>脆弱性診断</key_string>
+    </key>
+    <filter/>
+  </history>
+  <config>
+    <file_path>config_Himawari_Import_Cyber_all.xml</file_path>
+  </config>
+</user_setting>
