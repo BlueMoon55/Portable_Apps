@@ -12,8 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>標的型メール</key_string>
-      <key_string>ビジネスメール</key_string>
       <key_string>フィジカル</key_string>
       <key_string>フレームワーク</key_string>
       <key_string>サイバーフィジカルフレームワーク</key_string>
@@ -32,10 +30,12 @@
       <key_string>なりすまし</key_string>
       <key_string>CSF</key_string>
       <key_string>Supply Chain Risk</key_string>
+      <key_string>人工知能</key_string>
+      <key_string>中山</key_string>
     </key>
     <filter/>
   </history>
   <config>
-    <file_path>config_Import_all.xml</file_path>
+    <file_path>config_Import_Knowledge_all.xml</file_path>
   </config>
 </user_setting>
