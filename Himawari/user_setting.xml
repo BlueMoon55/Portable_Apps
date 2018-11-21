@@ -12,9 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>フィジカル</key_string>
-      <key_string>フレームワーク</key_string>
-      <key_string>サイバーフィジカルフレームワーク</key_string>
       <key_string>サイバー・フィジカル・フレームワーク</key_string>
       <key_string>サイバー・フィジカル・セキュリティ対策フレームワーク</key_string>
       <key_string>サイバーセキュリティ協議会</key_string>
@@ -32,10 +29,13 @@
       <key_string>Supply Chain Risk</key_string>
       <key_string>人工知能</key_string>
       <key_string>中山</key_string>
+      <key_string>不正競争</key_string>
+      <key_string>不正競争防止法</key_string>
+      <key_string>営業妨害</key_string>
     </key>
     <filter/>
   </history>
   <config>
-    <file_path>config_Import_Knowledge_all.xml</file_path>
+    <file_path>config_Import_all.xml</file_path>
   </config>
 </user_setting>
