@@ -12,8 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>価値創造</key_string>
-      <key_string>SP800-171</key_string>
       <key_string>連邦政府機関以外の組織及び情報システムに対する</key_string>
       <key_string>連邦政府機関</key_string>
       <key_string>blacklisting</key_string>
@@ -32,6 +30,8 @@
       <key_string>コグニティブ・コンピューティング</key_string>
       <key_string>BEC 単独による被害総額</key_string>
       <key_string>サイバー・フィジカル・セキュリティ対策フレームワーク</key_string>
+      <key_string>EBPM</key_string>
+      <key_string>学びの在り方の変革</key_string>
     </key>
     <filter/>
   </history>
