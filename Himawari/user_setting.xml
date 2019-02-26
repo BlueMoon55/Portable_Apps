@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><user_setting>
   <option>
     <tool>
-      <font_size>14</font_size>
+      <font_size>18</font_size>
       <browser>Microsoft Internet Explorer</browser>
-      <xsl>kotobun_written.xsl</xsl>
+      <xsl>wikipedia.xsl</xsl>
       <save_setting>0</save_setting>
     </tool>
     <search>
@@ -12,13 +12,9 @@
   </option>
   <history>
     <key>
-      <key_string>連邦政府機関以外の組織及び情報システムに対する</key_string>
-      <key_string>連邦政府機関</key_string>
-      <key_string>blacklisting</key_string>
       <key_string>なりすまし</key_string>
       <key_string>CSF</key_string>
       <key_string>Supply Chain Risk</key_string>
-      <key_string>人工知能</key_string>
       <key_string>中山</key_string>
       <key_string>不正競争</key_string>
       <key_string>不正競争防止法</key_string>
@@ -32,10 +28,14 @@
       <key_string>サイバー・フィジカル・セキュリティ対策フレームワーク</key_string>
       <key_string>EBPM</key_string>
       <key_string>学びの在り方の変革</key_string>
+      <key_string>環境</key_string>
+      <key_string>人工知能</key_string>
+      <key_string>aa</key_string>
+      <key_string>不正アクセス</key_string>
     </key>
     <filter/>
   </history>
   <config>
-    <file_path>config_Import_all.xml</file_path>
+    <file_path>config_wikipedia_all.xml</file_path>
   </config>
 </user_setting>
