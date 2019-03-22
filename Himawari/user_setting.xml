@@ -3,7 +3,7 @@
     <tool>
       <font_size>18</font_size>
       <browser>Microsoft Internet Explorer</browser>
-      <xsl>wikipedia.xsl</xsl>
+      <xsl>kotobun_written.xsl</xsl>
       <save_setting>0</save_setting>
     </tool>
     <search>
@@ -12,7 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>なりすまし</key_string>
       <key_string>CSF</key_string>
       <key_string>Supply Chain Risk</key_string>
       <key_string>中山</key_string>
@@ -32,10 +31,11 @@
       <key_string>人工知能</key_string>
       <key_string>aa</key_string>
       <key_string>不正アクセス</key_string>
+      <key_string>セキュリティ</key_string>
     </key>
     <filter/>
   </history>
   <config>
-    <file_path>config_wikipedia_all.xml</file_path>
+    <file_path>config_Import_all.xml</file_path>
   </config>
 </user_setting>
