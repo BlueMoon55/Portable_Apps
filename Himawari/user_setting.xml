@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><user_setting>
   <option>
     <tool>
-      <font_size>18</font_size>
+      <font_size>14</font_size>
       <browser>Microsoft Internet Explorer</browser>
       <xsl>kotobun_written.xsl</xsl>
       <save_setting>0</save_setting>
@@ -12,7 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>ソリューション</key_string>
       <key_string>ソリューションツール</key_string>
       <key_string>働き方改革</key_string>
       <key_string>サイバーフィジカルシステム</key_string>
@@ -32,6 +31,7 @@
       <key_string>人工知能ブーム</key_string>
       <key_string>DevOp</key_string>
       <key_string>DevOps</key_string>
+      <key_string>リベラル</key_string>
     </key>
     <filter/>
   </history>
