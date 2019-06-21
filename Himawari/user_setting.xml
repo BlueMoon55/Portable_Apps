@@ -12,8 +12,6 @@
   </option>
   <history>
     <key>
-      <key_string>「未来投資戦略2017」【2017年5月30日未来投資会議】</key_string>
-      <key_string>「未来投資戦略2017」</key_string>
       <key_string>ニュース記事【2017年5月31日産経新聞】</key_string>
       <key_string>ニュース記事</key_string>
       <key_string>【2017年5月31日産経新聞】</key_string>
@@ -32,10 +30,12 @@
       <key_string>政府情報システムj</key_string>
       <key_string>政府情報システム</key_string>
       <key_string>ECサイト</key_string>
+      <key_string>認証システム</key_string>
+      <key_string>認証</key_string>
     </key>
     <filter/>
   </history>
   <config>
-    <file_path>config_Import_all.xml</file_path>
+    <file_path>config_Import_Knowledge_all.xml</file_path>
   </config>
 </user_setting>

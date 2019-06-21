@@ -1,0 +1,50 @@
+LawTitle	
+Law	Year
+Law	Era
+Law	Num
+Law	LawType
+Law	Lang
+Article	Delete
+Article	Hide
+Article	Num
+LawBody	
+ChapterTitle	
+ArticleCaption	
+ArticleTitle	
+TOCLabel	
+ArticleRange	
+コーパス	備考
+コーパス	名前
+br	
+Item	Delete
+Item	Hide
+Item	Num
+MainProvision	
+ParagraphNum	
+ItemTitle	
+LawNum	
+Sentence	Function
+Sentence	WritingMode
+Sentence	Num
+Ruby	
+記事	備考
+記事	path
+記事	タイトル
+記事	著者
+Rt	
+Chapter	Delete
+Chapter	Hide
+Chapter	Num
+TOC	
+SupplProvision	AmendLawNum
+SupplProvision	Extract
+TOCChapter	Delete
+TOCChapter	Num
+Paragraph	Hide
+Paragraph	Num
+ParagraphSentence	
+ItemSentence	
+r	rt
+TOCSupplProvision	
+SupplProvisionLabel	
+テキスト	
